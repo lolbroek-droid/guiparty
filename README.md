@@ -74,7 +74,7 @@ You have to pip install it.
 
 1. Just do it, I guess.
    ```sh
-   pip install pygui
+   pip install pysimplegui
    ```
 2. download the partygui.py file
 
