@@ -89,5 +89,3 @@ You have to pip install it.
  > python3 ./pygui.py
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-The Party project
